@@ -2,9 +2,8 @@
 
 Common Lisp meta-class for tracking instances
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/plkrueger/instance-tracking.git   |
-| commit  | {"messa  |
-| systems | instance-tracking |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/plkrueger/instance-tracking.git |
+| commit  | add4743                                                |
+| systems | instance-tracking                                      |
+|---------+--------------------------------------------------------|
